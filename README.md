@@ -12,6 +12,15 @@
 
 <br>
 
+<div align="center">
+  <div>✍️ Resume ✍️<div/>
+  <a href="https://www.notion.so/1676357172f64cd3b6f35f4a906a31b6#63823d138685481093690567c4d09f72" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+  </a>
+</div>
+
+<br>
+
 <!--내용 부분-->
 <h3 align="center"> ✨ Tech Stack ✨ </h3>
 <div align="center">
